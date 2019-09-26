@@ -1,0 +1,19 @@
+#dash{
+    -fx-background-image:url("background.png");
+    -fx-background-repeat:stretch;
+    -fx-background-size:850 650;
+    }
+    
+    
+#login{
+    -fx-background-image:url("login.jpg");
+    -fx-background-repeat:stretch;
+    -fx-background-size:400 400;
+    }
+    
+#cover{
+    -fx-background-image:url("cover.gif");
+    -fx-background-repeat:stretch;
+    -fx-background-size:1100 1000;
+    }    
+        
